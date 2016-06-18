@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3673835
+  lightness: 0.8046595
+  brandStrength: 1
+  brandColors:
+    - '#8E8D89'
+    - '#999894'
+    - '#130B09'
+    - '#7A7A7A'
+    - '#1D1816'
+  rhythmicContrast: 0.01612903
+typography_spectrum: 1
+name: The Villains
