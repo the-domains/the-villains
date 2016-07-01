@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5430108
 color:
   saturation: 0.3673835
   brandStrength: 1
@@ -22,5 +21,6 @@ color:
     - '#7A7A7A'
     - '#1D1816'
   rhythmicContrast: 0.6146954
-layout_spectrum: 1
+typography_spectrum: 0.5430108
+layout_spectrum: 0.01612903
 name: The Villains
