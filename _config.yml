@@ -1,3 +1,21 @@
+typography_spectrum: 0.5430108
+color:
+  saturation: 0.3673835
+  brandStrength: 1
+  lightness: 0.8046595
+  brandColors:
+    - '#8E8D89'
+    - '#999894'
+    - '#130B09'
+    - '#7A7A7A'
+    - '#1D1816'
+  rhythmicContrast: 0.6146954
+layout_spectrum: 0.01612903
+name: The Villains
+navigation:
+  - name: Check out our Facebook
+    url: 'http://facebook.com/thevillainsmanchester'
+    type: external
 collections:
   - index:
       path: /
@@ -10,17 +28,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.3673835
-  brandStrength: 1
-  lightness: 0.8046595
-  brandColors:
-    - '#8E8D89'
-    - '#999894'
-    - '#130B09'
-    - '#7A7A7A'
-    - '#1D1816'
-  rhythmicContrast: 0.6146954
-typography_spectrum: 0.5430108
-layout_spectrum: 0.01612903
-name: The Villains
