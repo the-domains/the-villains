@@ -1,34 +1,34 @@
-typography_spectrum: 0.5430108
-color:
-  saturation: 0.3673835
-  brandStrength: 1
-  lightness: 0.8046595
-  brandColors:
-    - '#8E8D89'
-    - '#999894'
-    - '#130B09'
-    - '#7A7A7A'
-    - '#1D1816'
-  rhythmicContrast: 0.6146954
+title: Manchester based indie/rock cover band
 opengraph:
   appId: 'http://facebook.com/thevillainsmanchester'
-layout_spectrum: 0.01612903
-name: The Villains
-navigation:
-  - name: Check out our Facebook
-    url: 'http://facebook.com/thevillainsmanchester'
-    type: external
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Manchester based indie/rock cover band
+    permalink:
+      path: '/:title/'
 description: Rock'n roll thieves
+color:
+  saturation: 0.8297491
+  brandStrength: 1
+  lightness: 0.6290323
+  brandColors:
+    - '#000000'
+    - '#303030'
+    - '#B0B0B0'
+    - '#545454'
+    - '#E2E2E2'
+  rhythmicContrast: 0.3243728
+typography_spectrum: 0.5430108
+navigation:
+  - name: Check out our Facebook
+    url: 'http://facebook.com/thevillainsmanchester'
+    type: external
+layout_spectrum: 0.1129032
+name: The Villains
