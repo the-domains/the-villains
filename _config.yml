@@ -10,6 +10,8 @@ color:
     - '#7A7A7A'
     - '#1D1816'
   rhythmicContrast: 0.6146954
+opengraph:
+  appId: 'http://facebook.com/thevillainsmanchester'
 layout_spectrum: 0.01612903
 name: The Villains
 navigation:
